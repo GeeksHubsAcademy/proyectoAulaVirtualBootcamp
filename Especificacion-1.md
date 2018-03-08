@@ -26,7 +26,7 @@ Usuarios
 * Pass.
 * Activo.
 
-Bootcamp
+Bootcamps
 ---
 * Bootcamp.
 * Código Botcamp.
