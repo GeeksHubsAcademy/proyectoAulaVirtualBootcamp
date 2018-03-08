@@ -20,5 +20,5 @@ La aplicación debe tener una FrontEnd y un BackOffice:
 * En el caso de ser Administradores a la vez puedan eliminar al usuario.
 * Una vez el Gestor o Administrador da de alta un usuario, el usuario recibe un email para activar sus cuenta y confirmar el email.
 * Una vez el usuario haya confirmado debe poder loguearse en la aplicación accediendo al apartado Front-End.
-##### [Detalle de la especificacion] (https://github.com/GeeksHubsAcademy/proyectoAulaVirtualBootcamp/blob/master/Especificacion-1.md)
+[Detalle de la especificacion](https://github.com/GeeksHubsAcademy/proyectoAulaVirtualBootcamp/blob/master/Especificacion-1.md)
  
